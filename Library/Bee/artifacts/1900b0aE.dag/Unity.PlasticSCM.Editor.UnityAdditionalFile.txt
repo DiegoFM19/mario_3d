@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-C:\Users\DIEGO-PC\Documents\GitHub\mario_3d
-=======
-C:\Users\diego\OneDrive\Documents\GitHub\mario_3d
->>>>>>> main
+E:\Games\Mario
